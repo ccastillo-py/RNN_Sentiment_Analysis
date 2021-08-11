@@ -14,4 +14,4 @@ Los datasets de partida con que contamos (entrenamiento y prueba):</br>
 
 En un primer lugar se realiza un análisis exploratorio de los datos para posteriormente llevar a cabo la limpieza y preprocesado de los mismos. Una vez finalizado, se definen las capas de que se compone la Red Neuronal Recurrente, definiéndose como Callback un Early Stopping a fin de garantizar que no se produce Overfitting durante el aprendizaje.
 
-Los resultados para cada una de las clases quedan reflejados en un informe de clasificación final.
+Los resultados para cada una de las clases quedan reflejados en el informe de clasificación final.
